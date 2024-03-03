@@ -1,0 +1,20 @@
+{
+    "status": "true", 
+    "user_name": "User Name", 
+    "workouts": [
+        {
+            "workout_type": "Cardio", 
+            "workout_time": 60
+        }, 
+        {
+            "workout_type": "Weights", 
+            "workout_time": 35
+        }, 
+        {
+            "workout_type": "Calisthenics", 
+            "workout_time": 15
+        }
+    ], 
+    "workout_name": "My Workout", 
+    "total_duration": 110
+}
